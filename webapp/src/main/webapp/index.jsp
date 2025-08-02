@@ -1,2 +1,2 @@
 <h1>DEVOPS CLASS IS NOW MAKING SOME SENSE WHILE I UNDERSTAND GITHUB.......<h1>	
-		we want to automate.
+		we want to automate. I try to make adjustment...
